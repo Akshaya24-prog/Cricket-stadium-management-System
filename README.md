@@ -5,7 +5,7 @@ Here’s a clean, professional and well-structured **README.md** file for your G
 
 A desktop application for managing cricket stadium operations including match scheduling, seating arrangements, and staff management — built with **Python**, **Tkinter** (GUI), and **MySQL**.
 
-https://github.com/yourusername/cricket-stadium-management-system
+https://github.com/Akshaya24-prog/cricket-stadium-management-system
 
 ![Main Window Screenshot](https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/Cric_stad_homepage.png)
 
@@ -99,5 +99,6 @@ The application will:
 
 Made with ❤️ for cricket and database lovers!
 ```
+
 
 
