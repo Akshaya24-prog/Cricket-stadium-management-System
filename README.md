@@ -96,5 +96,6 @@ The application will:
 
 
 Made with ❤️ for cricket and database lovers!
-```
+
+
 
