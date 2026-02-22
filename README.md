@@ -1,10 +1,11 @@
+```markdown
 # Cricket Stadium Management System
 
 A desktop application for managing cricket stadium operations including match scheduling, seating arrangements, and staff management — built with **Python**, **Tkinter** (GUI), and **MySQL**.
 
 https://github.com/Akshaya24-prog/cricket-stadium-management-system
 
-[Main Window Screenshot](https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/Cric_stad_homepage.png)
+![Main Window Screenshot](https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/Cric_stad_homepage.png)
 
 ## Features
 
@@ -38,14 +39,14 @@ https://github.com/Akshaya24-prog/cricket-stadium-management-system
 
 ## Project Structure
 
-
+```text
 cricket-stadium-management-system/
-├── main.py                 # Main application file 
-├── img1.png                # Main dashboard background 
+├── main.py                 # Main application file (the code you have)
+├── img1.png                # Main dashboard background (stadium image)
 ├── img2.png                # Seating view background/image
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Prerequisites
 
@@ -57,13 +58,16 @@ cricket-stadium-management-system/
 
 1. **Clone the repository**
 
+```bash
 git clone https://github.com/yourusername/cricket-stadium-management-system.git
 cd cricket-stadium-management-system
-
+```
 
 2. **Install required Python packages**
 
+```bash
 pip install mysql-connector-python
+```
 
 (Only one external package is needed)
 
@@ -71,12 +75,13 @@ pip install mysql-connector-python
 
 - Make sure MySQL server is running
 - Have a valid MySQL username and password ready
-  
+  (usually `root` / your password)
 
 4. **Run the application**
 
+```bash
 python main.py
-
+```
 
 5. Enter your **MySQL username** and **password** in the login window
 [sql login window ] (https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/sql_login.png)
@@ -91,9 +96,5 @@ The application will:
 
 
 Made with ❤️ for cricket and database lovers!
-
-
-
-
-
+```
 
