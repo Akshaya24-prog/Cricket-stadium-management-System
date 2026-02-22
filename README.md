@@ -86,7 +86,7 @@ python main.py
 ```
 
 5. Enter your **MySQL username** and **password** in the login window
-
+[sql login window ] (https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/sql_login.png)
 
 The application will:
 - Connect to MySQL
@@ -99,6 +99,7 @@ The application will:
 
 Made with ❤️ for cricket and database lovers!
 ```
+
 
 
 
