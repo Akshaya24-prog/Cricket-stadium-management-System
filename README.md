@@ -7,8 +7,7 @@ A desktop application for managing cricket stadium operations including match sc
 
 https://github.com/yourusername/cricket-stadium-management-system
 
-![Main Window Screenshot](https://via.placeholder.com/800x450.png?text=Main+Window+Screenshot)
-*(Replace this with actual screenshot later)*
+![Main Window Screenshot](https://github.com/Akshaya24-prog/Cricket-stadium-management-System/blob/main/Cric_stad_homepage.png)
 
 ## Features
 
@@ -100,4 +99,5 @@ The application will:
 
 Made with ❤️ for cricket and database lovers!
 ```
+
 
